@@ -1,0 +1,1 @@
+sudo service emonhub restart
